@@ -25,7 +25,7 @@ a:focus {
 }
 
 #wrapper #content-wrapper {
-  background-color: #fafdfb;
+  background-color: #ff8ce8;
   width: 100%;
   overflow-x: hidden
 }
@@ -52,7 +52,7 @@ a:focus {
   width: 2.75rem;
   height: 2.75rem;
   text-align: center;
-  color: #fff;
+  color: #ff8ce8;
   background: rgba(90, 92, 105, .5);
   line-height: 46px;
   transition: all .3s ease-in-out;
@@ -61,7 +61,7 @@ a:focus {
 
 .scroll-to-top:focus,
 .scroll-to-top:hover {
-  color: #fff;
+  color: #ff8ce8;
   transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out
 }
@@ -151,7 +151,7 @@ a:focus {
 }
 
 .bg-gradient-secondary {
-  background-color: #757575;
+  background-color: #ff8ce8;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #757575), to(#60616f));
   background-image: linear-gradient(180deg, #757575 10%, #60616f 100%);
   background-size: cover
